@@ -12,4 +12,6 @@ ___
 4. Взаимодействие с видео и аудиофайлами, iframe, API;
 5. Анимации и трансформации.
 
+[Ссылка на проект](https://chill-peppa.github.io/how-to-learn/index.html)
+
 
